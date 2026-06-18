@@ -1,10 +1,10 @@
 # Olá, eu sou Alanis 👋
 
-Estudante de ADS que está aprendendo a transformar ideias em código.
+Desenvolvedora em início de carreira, dedicada à criação de projetos que unem aprendizado, prática e resolução de problemas.
 
-Atualmente estudando HTML, CSS, JavaScript e C, enquanto construo projetos para desenvolver minhas habilidades e montar meu portfólio.
+Atualmente trabalho com HTML, CSS, JavaScript e C, construindo aplicações para fortalecer minhas habilidades e expandir meu portfólio.
 
-🚀 Em busca da minha primeira oportunidade na área de tecnologia.
+🚀 Em busca da primeira oportunidade para crescer e contribuir na área de tecnologia.
 
 🌱 Atualmente estudando:
 - HTML
