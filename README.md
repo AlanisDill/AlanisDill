@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Alanis 👋
 
-<!--
-**AlanisDill/AlanisDill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de ADS que está aprendendo a transformar ideias em código.
 
-Here are some ideas to get you started:
+Atualmente estudando HTML, CSS, JavaScript e C, enquanto construo projetos para desenvolver minhas habilidades e montar meu portfólio.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Em busca da minha primeira oportunidade na área de tecnologia.
+
+🌱 Atualmente estudando:
+- HTML
+- CSS
+- JavaScript
+- C
+- Git e GitHub
+
+🎯 Objetivo:
+Conquistar minha primeira oportunidade na área de Desenvolvimento Front-End.
+
+---
+
+## 🚀 Tecnologias
+
+HTML • CSS • JavaScript • C • Git • GitHub
+
+---
+
+## 📈 Atualmente
+
+📖 Aprendendo JavaScript
+
+🎨 Aprimorando minhas habilidades em Front-End
+
+💡 Construindo novos projetos para meu portfólio
+
+---
+
+## 📫 Contato
+
+LinkedIn: seu-link
+
+Email: seu-email
+
+> "Não importa o quão devagar você vá, desde que não pare."
