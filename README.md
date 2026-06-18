@@ -36,8 +36,8 @@ HTML • CSS • JavaScript • C • Git • GitHub
 
 ## 📫 Contato
 
-LinkedIn: (https://www.linkedin.com/in/alanis-ferreira-dill-8b2872351/)
+[LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/alanis-ferreira-dill-8b2872351/))
 
-Email: alanisferreira336@gmail.com
+[Email](mailto:alanisferreira@gmail.com) 
 
 > "Não importa o quão devagar você vá, desde que não pare."
