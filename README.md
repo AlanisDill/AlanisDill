@@ -36,7 +36,7 @@ HTML • CSS • JavaScript • C • Git • GitHub
 
 ## 📫 Contato
 
-[LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/alanis-ferreira-dill-8b2872351/))
+[LinkedIn](https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/alanis-ferreira-dill-8b2872351/)
 
 [Email](mailto:alanisferreira@gmail.com) 
 
